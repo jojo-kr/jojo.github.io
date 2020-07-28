@@ -1,5 +1,6 @@
 ---
 title: "My First Posting on Github Blog"
+comments: true
 date: 2020-7-27
 categories: explore jekyll
 ---
